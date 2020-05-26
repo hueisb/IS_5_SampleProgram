@@ -1,0 +1,10 @@
+D:\Doc\Visual Studio 2019\App\IS-5_sample_app\IS-5_sample_app\bin\Debug\IS-5_sample_app.exe.config
+D:\Doc\Visual Studio 2019\App\IS-5_sample_app\IS-5_sample_app\bin\Debug\IS-5_sample_app.exe
+D:\Doc\Visual Studio 2019\App\IS-5_sample_app\IS-5_sample_app\bin\Debug\IS-5_sample_app.pdb
+D:\Doc\Visual Studio 2019\App\IS-5_sample_app\IS-5_sample_app\obj\Debug\IS-5_sample_app.csprojAssemblyReference.cache
+D:\Doc\Visual Studio 2019\App\IS-5_sample_app\IS-5_sample_app\obj\Debug\IS_5_sample_app.Form1.resources
+D:\Doc\Visual Studio 2019\App\IS-5_sample_app\IS-5_sample_app\obj\Debug\IS_5_sample_app.Properties.Resources.resources
+D:\Doc\Visual Studio 2019\App\IS-5_sample_app\IS-5_sample_app\obj\Debug\IS-5_sample_app.csproj.GenerateResource.cache
+D:\Doc\Visual Studio 2019\App\IS-5_sample_app\IS-5_sample_app\obj\Debug\IS-5_sample_app.csproj.CoreCompileInputs.cache
+D:\Doc\Visual Studio 2019\App\IS-5_sample_app\IS-5_sample_app\obj\Debug\IS-5_sample_app.exe
+D:\Doc\Visual Studio 2019\App\IS-5_sample_app\IS-5_sample_app\obj\Debug\IS-5_sample_app.pdb
